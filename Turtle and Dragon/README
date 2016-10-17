@@ -1,0 +1,9 @@
+This is a simple Turtle Graphics engine that allows the user to give
+commands to a drawing 'turtle' Java object based on a limited
+set of object methods.
+
+The instructions for the turtle should be given in the 'run' function
+of the Instructions class.
+
+To open the window and see the results of running the instructions,
+run Turtle.java.
